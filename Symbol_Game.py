@@ -1,4 +1,4 @@
-# Symbol from NEM - Game Collector XYM
+# Symbol from NEM - Game Collector XYM🐍
 # By @klimgeran
 
 import turtle
@@ -13,7 +13,7 @@ high_score = 0
 
 # Set up the screen
 wn = turtle.Screen()
-wn.title("Symbol from NEM - Game Collector XYM")
+wn.title("Symbol from NEM - Game Collector XYM🐍")
 wn.bgcolor("white")
 wn.setup(width=600, height=600)
 wn.tracer(0) # Turns off the screen updates
